@@ -6,7 +6,7 @@ public class TestingClass {
     @Test
     public void testCube() {
 
-        assertEquals(63, MyFunction.cube(4));
+        assertEquals(64, MyFunction.cube(4));
 
     }
 
